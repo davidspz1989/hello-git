@@ -1,1 +1,1 @@
-console.log("Hello world! LOGIN")
+console.log("Hello world! MAIN MAIN")
